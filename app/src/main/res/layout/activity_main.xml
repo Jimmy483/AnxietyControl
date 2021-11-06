@@ -8,7 +8,7 @@
     tools:context=".MainActivity">
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/btnProceed"
         android:layout_width="143dp"
         android:layout_height="70dp"
         android:layout_marginStart="132dp"
